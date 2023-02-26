@@ -11,10 +11,10 @@ const allAboutMe = {
     },
     "past": [
       {
-        "title": "Software Engineer Intern",
-        "company": "Northrop Grumman",
-        "start": "May 2022",
-        "end": "August 2022"
+       "title": "Software Engineer Intern",
+       "company": "Northrop Grumman",
+       "start": "May 2022",
+       "end": "August 2022"
       },
       {
         "title": "Front Desk Agent",
