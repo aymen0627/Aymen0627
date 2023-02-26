@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**aymen0627/Aymen0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const allAboutMe = {
+  name: {
+    first: "Aymen",
+    last: "Hasnain"
+    },
+  languages: {'Python', 'Java', 'C'},
+  experiences: {
+    current: {
+      title: 'Sales Associate',
+      company: 'Best Buy',
+      start: 'April 2021',
+    },
+    past: [
+    {
+      title: 'Software Engineer Intern',
+      company: 'Northrop Grumman',
+      start: 'May 2022',
+      end: 'August 2022'
+    },
+    {
+      title: 'Front Desk Agent',
+      company: 'The Island by Hotel RL',
+      start: 'June 2018',
+      end: 'December 2019'
+     }
+     ],
+     education: {
+      university: 'University of Central Florida',
+      major: 'Computer Engineering',
+      gradYear: '2023'
+      }
+   }
