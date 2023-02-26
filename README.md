@@ -1,5 +1,6 @@
 ### Hi there 👋
-{
+```javascript
+const allAboutMe = {
   "name": "Aymen Hasnain",
   "languages": ["Python", "Java", "C"],
   "experiences": {
