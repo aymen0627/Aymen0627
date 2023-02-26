@@ -1,7 +1,7 @@
 ### Hi there 👋
 {
   "name": "Aymen Hasnain",
-  "languages": ['Python', 'Java', 'C'],
+  "languages": ["Python", "Java", "C"],
   "experiences": {
     "current": {
       "title": "Sales Associate",
@@ -29,4 +29,3 @@
     }
   }
 }
-
