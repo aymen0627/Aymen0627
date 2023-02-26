@@ -17,10 +17,10 @@ const allAboutMe = {
        "end": "August 2022"
       },
       {
-        "title": "Front Desk Agent",
-        "company": "The Island by Hotel RL",
-        "start": "June 2018",
-        "end": "December 2019"
+       "title": "Front Desk Agent",
+       "company": "The Island by Hotel RL",
+       "start": "June 2018",
+       "end": "December 2019"
       }
     ],
     "education": {
