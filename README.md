@@ -2,7 +2,7 @@
 ```javascript
 const allAboutMe = {
   "name": "Aymen Hasnain",
-  "languages": ["Python", "Java", "C"],
+  "languages": ["Python", "Java", "Javascript"],
   "experiences": {
     "current": {
       "title": "Software Developer 1",
