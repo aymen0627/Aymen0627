@@ -5,12 +5,18 @@ const allAboutMe = {
   "languages": ["Python", "Java", "C"],
   "experiences": {
     "current": {
-      "title": "Sales Associate",
-      "company": "Best Buy",
-      "start": "April 2021"
+      "title": "Software Developer 1",
+      "company": "Katmai",
+      "start": "October 2023"
     },
     "past": [
       {
+       "title": "Software Developer Intern",
+       "company": "Katmai",
+       "start": "July 2023",
+       "end": "October 2023"
+      },
+{
        "title": "Software Engineer Intern",
        "company": "Northrop Grumman",
        "start": "May 2022",
