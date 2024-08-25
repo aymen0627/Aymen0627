@@ -6,13 +6,13 @@ const allAboutMe = {
   "experiences": {
     "current": {
       "title": "Software Developer 1",
-      "company": "Katmai",
+      "company": "Katmai Government Services",
       "start": "October 2023"
     },
     "past": [
       {
        "title": "Software Developer Intern",
-       "company": "Katmai",
+       "company": "Katmai Government Services",
        "start": "July 2023",
        "end": "October 2023"
       },
