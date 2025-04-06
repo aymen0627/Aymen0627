@@ -1,4 +1,4 @@
-### Hi there! 🐉 Try: https://aymen0627.github.io/ too!
+### Hi there! 🐉 Try: aymenh.dev too!
 ```javascript
 const allAboutMe = {
   "name": "Aymen Hasnain",
