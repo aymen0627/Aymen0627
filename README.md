@@ -16,7 +16,7 @@ const allAboutMe = {
        "start": "July 2023",
        "end": "October 2023"
       },
-{
+      {
        "title": "Software Engineer Intern",
        "company": "Northrop Grumman",
        "start": "May 2022",
@@ -26,7 +26,8 @@ const allAboutMe = {
     "education": {
       "university": "University of Central Florida",
       "major": "Computer Engineering",
-      "gradYear": "2023"
+      "gradYear": "2023",
+      "gpa": "3.7"
     }
   }
 }
