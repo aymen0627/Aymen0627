@@ -5,7 +5,7 @@ const allAboutMe = {
   "languages": ["Python", "Java", "Javascript"],
   "experiences": {
     "current": {
-      "title": "Software Developer 1",
+      "title": "Software Developer 2",
       "company": "Katmai Government Services",
       "start": "October 2023"
     },
